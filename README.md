@@ -1,2 +1,2 @@
-# Lubuntu Manual1.0
+# Lubuntu Manual
 This is a rough draft of the Lubuntu Manual 
